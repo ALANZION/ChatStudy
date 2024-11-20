@@ -1,5 +1,6 @@
 # Ex. No:1b 	Study of Client Server Chat Applications
-# DATE:
+## NAME:ALAN ZION H
+## REG NO:212223240004
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
